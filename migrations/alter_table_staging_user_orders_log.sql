@@ -1,0 +1,1 @@
+alter table staging.user_order_log add status varchar(100) null

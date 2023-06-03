@@ -1,0 +1,1 @@
+truncate table mart.f_customer_retention
